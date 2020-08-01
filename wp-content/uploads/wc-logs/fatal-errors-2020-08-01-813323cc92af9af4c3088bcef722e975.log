@@ -50,3 +50,7 @@
 
 2020-08-01T12:04:28+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1/inc/Engine/WPRocketUninstall.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1\uninstall.php on line 13
 
+2020-08-01T17:14:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\WordPress_projects\wp-content\plugins\wpforms-lite\vendor\symfony\polyfill-mbstring\bootstrap.php on line 14
+
+2020-08-01T17:21:53+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\WordPress_projects\wp-settings.php on line 507
+
