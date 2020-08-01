@@ -1,0 +1,52 @@
+2020-08-01T11:49:20+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:49:21+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:49:25+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:49:25+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:49:25+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:49:25+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:49:26+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:49:39+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:54:03+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:55:26+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:58:02+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:58:09+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:58:10+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:58:11+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:58:12+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:58:20+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T11:58:20+00:00 CRITICAL require(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm/includes/modules-manager.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm\plugin.php on line 94
+
+2020-08-01T12:02:47+00:00 CRITICAL require_once(): Failed opening required '/constants.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1\wp-rocket.php on line 36
+
+2020-08-01T12:02:50+00:00 CRITICAL require_once(): Failed opening required '/constants.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1\wp-rocket.php on line 36
+
+2020-08-01T12:02:50+00:00 CRITICAL require_once(): Failed opening required '/constants.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1\wp-rocket.php on line 36
+
+2020-08-01T12:03:15+00:00 CRITICAL require_once(): Failed opening required '/constants.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1\wp-rocket.php on line 36
+
+2020-08-01T12:03:16+00:00 CRITICAL require_once(): Failed opening required '/constants.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1\wp-rocket.php on line 36
+
+2020-08-01T12:03:16+00:00 CRITICAL require_once(): Failed opening required '/constants.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1\wp-rocket.php on line 36
+
+2020-08-01T12:03:41+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1/inc/Engine/WPRocketUninstall.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1\uninstall.php on line 13
+
+2020-08-01T12:04:04+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1/inc/Engine/WPRocketUninstall.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1\uninstall.php on line 13
+
+2020-08-01T12:04:28+00:00 CRITICAL require_once(): Failed opening required 'C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1/inc/Engine/WPRocketUninstall.php' (include_path='.;C:\php\pear') in C:\wamp64\www\WordPress_projects\wp-content\plugins\myzipped-8-1-2020-5-18-09-pm-1\uninstall.php on line 13
+
